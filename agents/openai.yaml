@@ -1,0 +1,7 @@
+interface:
+  display_name: "Jimeng Seedance Prompts"
+  short_description: "Turn stories and ideas into Seedance prompts."
+  default_prompt: "Use $jimeng-seedance-prompts to turn my simple story or idea into one ready-to-paste Jimeng Seedance 2.0 prompt."
+
+policy:
+  allow_implicit_invocation: true
